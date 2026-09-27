@@ -1,0 +1,11 @@
+*{
+  margin: 40px;
+  padding: px;
+  box-sizing: border-box;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: black;
+  background-color: rgb(65, 15, 216);
+}
+button{
+  background-color: rgb(98, 0, 255);
+}
